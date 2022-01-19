@@ -11,6 +11,7 @@ This is my first FiveM Script but it's a simple death screen that makes the play
 ## Updates
 
 -- 1.0 --
+
 Releasing Simple Deathscreen on GitHub
 
 
