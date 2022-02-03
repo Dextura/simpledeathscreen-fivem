@@ -10,6 +10,14 @@ This is my first FiveM Script but it's a simple death screen that makes the play
 
 ## Updates
 
+-- 1.4 --
+
+Fixing bugs such as "Game Crashing", "Game Freezing", and Major Server Lag.
+
+-- 1.3 --
+
+Adding Credits to the main.lua file
+
 -- 1.0 --
 
 Releasing Simple Deathscreen on GitHub
