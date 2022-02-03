@@ -1,4 +1,4 @@
-local isPlayerDead = false
+-- * Made By Dextura Aka Venom Nightmarez * --local isPlayerDead = false
 
 
 Citizen.CreateThread(function()
